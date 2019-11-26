@@ -26,3 +26,9 @@ For kubernetes setup i have included dynamical nfs provisioning but can do witho
 6). deploy the web yaml with the image created in step 5
 
 7). deploy web service
+
+8). then access the app from browse......no loadbalance provision.....the idea is to send data and have it stored on mongodb
+
+you are welcome to change it however as long as it can save the data to the database. ofcourse commments would go a long way in understanding the change
+
+LETS CODE!!!
