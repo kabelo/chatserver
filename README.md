@@ -19,3 +19,4 @@ For kubernetes setup i have included dynamical nfs provisioning but can do witho
 - you should see the dns names of the mongo pods ie. mongo-0.mongo,mongo-1.mongo,mongo-2.mongo
 5)create the web image from the dockerfile and use it in the web yaml
 6)deploy the web yaml with the image created in step 5
+7)deploy web service
