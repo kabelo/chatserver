@@ -18,6 +18,6 @@ spec:
         name: web
         env:
         - name: "DBHOST"
-          value: "mongodb://mongodb-0.mongo,mongo-1.mongo,mongo-2.mongo:27017"
+          value: "mongodb://mongo-0.mongo,mongo-1.mongo,mongo-2.mongo:27017"
         ports:
         - containerPort: 3000
